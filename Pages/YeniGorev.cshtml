@@ -1,0 +1,31 @@
+﻿@page
+@model YeniGorevModel
+@{
+}
+
+<form asp-page-handler="Form" method="post">
+    <div class="row g-3 w-50 mx-auto border border-primary rounded shadow-lg p-3 mb-5 bg-blue" >
+        <div class="text-center">
+            <h1>Yeni Gorev Ekleyin!</h1>
+        </div>
+        <div class="col-md-6">
+            <label class="form-label">Gorev Basligi</label>
+            <input type="text" class="form-control" asp-for="task.topic">
+        </div>
+        <div class="col-12">
+            <label class="form-label">Gorev Detayi</label>
+            <input type="text" class="form-control" asp-for="task.details">
+        </div>
+        <div class="col-12">
+            <label class="form-label">Iletisim adresi</label>
+            <input type="text" class="form-control" asp-for="task.iletisim">
+        </div>
+         <div class="col-12">
+            <label class="form-label">Su zamana kadar</label>
+            <input type="date" class="form-control" asp-for="task.deadline">
+        </div>
+        <div class="col-12">
+            <button type="submit" class="btn btn-success">Ekle!</button>
+        </div>
+    </div>
+</form>

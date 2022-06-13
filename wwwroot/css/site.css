@@ -1,0 +1,39 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: #000;
+  color: white;
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+        margin-bottom: 400px;
+    }
+    100% {
+        opacity: 1;
+        margin-bottom: 50px;
+    }
+}
+
+.headerx {
+    text-decoration: underline;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 50px;
+    animation: fade-in 1s linear;
+}

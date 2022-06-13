@@ -1,0 +1,45 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+@if (Model.Status == "Success")
+{
+    <div class="alert alert-success" role="alert">Basarili!</div>
+}
+else if (Model.Status == "Error")
+{
+    <div class="alert alert-danger" role="alert">Hata!</div>
+}
+
+<div class="text-center headerx">
+     <h1>Tasker - Sizin emriniz, bizim görevimiz.</h1>
+</div>
+
+@*<form class=form-inline justify-content center mb-6 method="post">
+    <input class="form-control" asp-for="Term" type="search" aria-label="Ara" />
+    <button class="bt btn-primary">Ara</button>
+    </form>*@
+
+
+<div class="row row-cols-6">
+    @foreach (var task in Model.Projects)
+    {
+        <div class="card border-primary mb-3" style="max-width: 18rem; margin-left: 16px; color: black;">
+            <div class="card-header">Gorev no @task.id</div>
+            <div class="card-body text-primary">
+                <h5 class="card-title">Konu: @task.topic</h5>
+                <p class="card-text">Detaylar: @task.details</p>
+                <p class="card-text">Iletisim: @task.iletisim</p>
+                <p class="card-text">Tamamlanmis mi: @task.completed</p>
+                <p class="card-text">Son teslim: @task.deadline</p>
+            </div>
+            <div class="card-footer text-center" style="color: black;">
+                Lutfen yukaridaki mail adresi ile iletisime gecin.
+            </div>
+        </div>
+    }
+</div>
+
+

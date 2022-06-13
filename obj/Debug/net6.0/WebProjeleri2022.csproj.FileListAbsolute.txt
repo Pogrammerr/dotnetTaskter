@@ -1,0 +1,104 @@
+C:\Users\anilb\source\repos\WebProjeleri2022\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\anilb\source\repos\WebProjeleri2022\bin\Debug\net6.0\appsettings.json
+C:\Users\anilb\source\repos\WebProjeleri2022\bin\Debug\net6.0\WebProjeleri2022.staticwebassets.runtime.json
+C:\Users\anilb\source\repos\WebProjeleri2022\bin\Debug\net6.0\WebProjeleri2022.exe
+C:\Users\anilb\source\repos\WebProjeleri2022\bin\Debug\net6.0\WebProjeleri2022.deps.json
+C:\Users\anilb\source\repos\WebProjeleri2022\bin\Debug\net6.0\WebProjeleri2022.runtimeconfig.json
+C:\Users\anilb\source\repos\WebProjeleri2022\bin\Debug\net6.0\WebProjeleri2022.dll
+C:\Users\anilb\source\repos\WebProjeleri2022\bin\Debug\net6.0\WebProjeleri2022.pdb
+C:\Users\anilb\source\repos\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.csproj.AssemblyReference.cache
+C:\Users\anilb\source\repos\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anilb\source\repos\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.AssemblyInfoInputs.cache
+C:\Users\anilb\source\repos\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.AssemblyInfo.cs
+C:\Users\anilb\source\repos\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.csproj.CoreCompileInputs.cache
+C:\Users\anilb\source\repos\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anilb\source\repos\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.RazorAssemblyInfo.cache
+C:\Users\anilb\source\repos\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.RazorAssemblyInfo.cs
+C:\Users\anilb\source\repos\WebProjeleri2022\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\anilb\source\repos\WebProjeleri2022\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\anilb\source\repos\WebProjeleri2022\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\anilb\source\repos\WebProjeleri2022\obj\Debug\net6.0\scopedcss\bundle\WebProjeleri2022.styles.css
+C:\Users\anilb\source\repos\WebProjeleri2022\obj\Debug\net6.0\scopedcss\projectbundle\WebProjeleri2022.bundle.scp.css
+C:\Users\anilb\source\repos\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.dll
+C:\Users\anilb\source\repos\WebProjeleri2022\obj\Debug\net6.0\refint\WebProjeleri2022.dll
+C:\Users\anilb\source\repos\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.pdb
+C:\Users\anilb\source\repos\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.genruntimeconfig.cache
+C:\Users\anilb\source\repos\WebProjeleri2022\obj\Debug\net6.0\ref\WebProjeleri2022.dll
+C:\Users\canoz\Desktop\WebProjeleri2022\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\canoz\Desktop\WebProjeleri2022\bin\Debug\net6.0\appsettings.json
+C:\Users\canoz\Desktop\WebProjeleri2022\bin\Debug\net6.0\WebProjeleri2022.staticwebassets.runtime.json
+C:\Users\canoz\Desktop\WebProjeleri2022\bin\Debug\net6.0\WebProjeleri2022.exe
+C:\Users\canoz\Desktop\WebProjeleri2022\bin\Debug\net6.0\WebProjeleri2022.deps.json
+C:\Users\canoz\Desktop\WebProjeleri2022\bin\Debug\net6.0\WebProjeleri2022.runtimeconfig.json
+C:\Users\canoz\Desktop\WebProjeleri2022\bin\Debug\net6.0\WebProjeleri2022.dll
+C:\Users\canoz\Desktop\WebProjeleri2022\bin\Debug\net6.0\WebProjeleri2022.pdb
+C:\Users\canoz\Desktop\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.csproj.AssemblyReference.cache
+C:\Users\canoz\Desktop\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canoz\Desktop\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.AssemblyInfoInputs.cache
+C:\Users\canoz\Desktop\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.AssemblyInfo.cs
+C:\Users\canoz\Desktop\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.csproj.CoreCompileInputs.cache
+C:\Users\canoz\Desktop\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\canoz\Desktop\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.RazorAssemblyInfo.cache
+C:\Users\canoz\Desktop\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.RazorAssemblyInfo.cs
+C:\Users\canoz\Desktop\WebProjeleri2022\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\canoz\Desktop\WebProjeleri2022\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\canoz\Desktop\WebProjeleri2022\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\canoz\Desktop\WebProjeleri2022\obj\Debug\net6.0\scopedcss\bundle\WebProjeleri2022.styles.css
+C:\Users\canoz\Desktop\WebProjeleri2022\obj\Debug\net6.0\scopedcss\projectbundle\WebProjeleri2022.bundle.scp.css
+C:\Users\canoz\Desktop\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.dll
+C:\Users\canoz\Desktop\WebProjeleri2022\obj\Debug\net6.0\refint\WebProjeleri2022.dll
+C:\Users\canoz\Desktop\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.pdb
+C:\Users\canoz\Desktop\WebProjeleri2022\obj\Debug\net6.0\WebProjeleri2022.genruntimeconfig.cache
+C:\Users\canoz\Desktop\WebProjeleri2022\obj\Debug\net6.0\ref\WebProjeleri2022.dll
+C:\Users\canoz\Desktop\TaskManagement - Kopya\obj\Debug\net6.0\WebProjeleri2022.csproj.AssemblyReference.cache
+C:\Users\canoz\Desktop\TaskManagement - Kopya\obj\Debug\net6.0\WebProjeleri2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canoz\Desktop\TaskManagement - Kopya\obj\Debug\net6.0\WebProjeleri2022.AssemblyInfoInputs.cache
+C:\Users\canoz\Desktop\TaskManagement - Kopya\obj\Debug\net6.0\WebProjeleri2022.AssemblyInfo.cs
+C:\Users\canoz\Desktop\TaskManagement - Kopya\obj\Debug\net6.0\WebProjeleri2022.csproj.CoreCompileInputs.cache
+C:\Users\canoz\Desktop\TaskManagement - Kopya\obj\Debug\net6.0\WebProjeleri2022.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\canoz\Desktop\TaskManagement - Kopya\obj\Debug\net6.0\WebProjeleri2022.RazorAssemblyInfo.cache
+C:\Users\canoz\Desktop\TaskManagement - Kopya\obj\Debug\net6.0\WebProjeleri2022.RazorAssemblyInfo.cs
+C:\Users\canoz\Desktop\TaskManagement - Kopya\obj\Debug\net6.0\WebProjeleri2022.dll
+C:\Users\canoz\Desktop\TaskManagement - Kopya\obj\Debug\net6.0\refint\WebProjeleri2022.dll
+C:\Users\canoz\Desktop\TaskManagement - Kopya\obj\Debug\net6.0\WebProjeleri2022.pdb
+C:\Users\canoz\Desktop\TaskManagement - Kopya\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\canoz\Desktop\TaskManagement - Kopya\bin\Debug\net6.0\appsettings.json
+C:\Users\canoz\Desktop\TaskManagement - Kopya\bin\Debug\net6.0\WebProjeleri2022.staticwebassets.runtime.json
+C:\Users\canoz\Desktop\TaskManagement - Kopya\bin\Debug\net6.0\WebProjeleri2022.exe
+C:\Users\canoz\Desktop\TaskManagement - Kopya\bin\Debug\net6.0\WebProjeleri2022.deps.json
+C:\Users\canoz\Desktop\TaskManagement - Kopya\bin\Debug\net6.0\WebProjeleri2022.runtimeconfig.json
+C:\Users\canoz\Desktop\TaskManagement - Kopya\bin\Debug\net6.0\WebProjeleri2022.dll
+C:\Users\canoz\Desktop\TaskManagement - Kopya\bin\Debug\net6.0\WebProjeleri2022.pdb
+C:\Users\canoz\Desktop\TaskManagement - Kopya\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\canoz\Desktop\TaskManagement - Kopya\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\canoz\Desktop\TaskManagement - Kopya\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\canoz\Desktop\TaskManagement - Kopya\obj\Debug\net6.0\scopedcss\bundle\WebProjeleri2022.styles.css
+C:\Users\canoz\Desktop\TaskManagement - Kopya\obj\Debug\net6.0\scopedcss\projectbundle\WebProjeleri2022.bundle.scp.css
+C:\Users\canoz\Desktop\TaskManagement - Kopya\obj\Debug\net6.0\WebProjeleri2022.genruntimeconfig.cache
+C:\Users\canoz\Desktop\TaskManagement - Kopya\obj\Debug\net6.0\ref\WebProjeleri2022.dll
+C:\Users\canoz\Desktop\TaskManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\canoz\Desktop\TaskManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\canoz\Desktop\TaskManagement\bin\Debug\net6.0\WebProjeleri2022.staticwebassets.runtime.json
+C:\Users\canoz\Desktop\TaskManagement\bin\Debug\net6.0\WebProjeleri2022.exe
+C:\Users\canoz\Desktop\TaskManagement\bin\Debug\net6.0\WebProjeleri2022.deps.json
+C:\Users\canoz\Desktop\TaskManagement\bin\Debug\net6.0\WebProjeleri2022.runtimeconfig.json
+C:\Users\canoz\Desktop\TaskManagement\bin\Debug\net6.0\WebProjeleri2022.dll
+C:\Users\canoz\Desktop\TaskManagement\bin\Debug\net6.0\WebProjeleri2022.pdb
+C:\Users\canoz\Desktop\TaskManagement\obj\Debug\net6.0\WebProjeleri2022.csproj.AssemblyReference.cache
+C:\Users\canoz\Desktop\TaskManagement\obj\Debug\net6.0\WebProjeleri2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canoz\Desktop\TaskManagement\obj\Debug\net6.0\WebProjeleri2022.AssemblyInfoInputs.cache
+C:\Users\canoz\Desktop\TaskManagement\obj\Debug\net6.0\WebProjeleri2022.AssemblyInfo.cs
+C:\Users\canoz\Desktop\TaskManagement\obj\Debug\net6.0\WebProjeleri2022.csproj.CoreCompileInputs.cache
+C:\Users\canoz\Desktop\TaskManagement\obj\Debug\net6.0\WebProjeleri2022.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\canoz\Desktop\TaskManagement\obj\Debug\net6.0\WebProjeleri2022.RazorAssemblyInfo.cache
+C:\Users\canoz\Desktop\TaskManagement\obj\Debug\net6.0\WebProjeleri2022.RazorAssemblyInfo.cs
+C:\Users\canoz\Desktop\TaskManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\canoz\Desktop\TaskManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\canoz\Desktop\TaskManagement\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\canoz\Desktop\TaskManagement\obj\Debug\net6.0\scopedcss\bundle\WebProjeleri2022.styles.css
+C:\Users\canoz\Desktop\TaskManagement\obj\Debug\net6.0\scopedcss\projectbundle\WebProjeleri2022.bundle.scp.css
+C:\Users\canoz\Desktop\TaskManagement\obj\Debug\net6.0\WebProjeleri2022.dll
+C:\Users\canoz\Desktop\TaskManagement\obj\Debug\net6.0\refint\WebProjeleri2022.dll
+C:\Users\canoz\Desktop\TaskManagement\obj\Debug\net6.0\WebProjeleri2022.pdb
+C:\Users\canoz\Desktop\TaskManagement\obj\Debug\net6.0\WebProjeleri2022.genruntimeconfig.cache
+C:\Users\canoz\Desktop\TaskManagement\obj\Debug\net6.0\ref\WebProjeleri2022.dll

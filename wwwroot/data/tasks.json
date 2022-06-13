@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "topic": "A Portfolio Website",
+    "details": "Kendimi tanitabilecegim bir websitesi istiyorum.",
+    "iletisim": "canozfuttu@marun.edu.tr",
+    "deadline": "09.06.2022",
+    "completed": true
+  },
+  {
+    "id": 1,
+    "topic": "Oyun Geli\u015Ftirme Uzman\u0131",
+    "details": "Bir adet oyun geli\u015Ftirme uzman\u0131na ihtiyac\u0131m var, \u00E7ok acil!",
+    "iletisim": "canozfuttu2@marun.edu.tr",
+    "deadline": "11.06.2022",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "topic": "Acil!!",
+    "details": "Projeden tam not almam laz\u0131m seri yard\u0131m",
+    "iletisim": "canozfuttu@marun.edu.tr",
+    "deadline": "2022-06-22",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "topic": "Blockchain Mesajlasma Uygulamasi",
+    "details": "Blockchain \u00FCzerinde kullan\u0131c\u0131lar\u0131n birbirine mesaj atmas\u0131n\u0131 sa\u011Flayan bir uygulama",
+    "iletisim": "canozfuttu07@gmail.com",
+    "deadline": "2022-11-16",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "topic": "Blockchain uzerinde gorev yonetim sistemi",
+    "details": "Blockchain uzerinde gorev yonetim sistemi, insanlar birbirlerine gorev verebilecek.",
+    "iletisim": "canozfuttu@marun.edu.tr",
+    "deadline": "2022-12-10",
+    "completed": false
+  }
+]
